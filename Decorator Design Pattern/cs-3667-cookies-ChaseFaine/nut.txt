@@ -1,0 +1,7 @@
+Create hasNuts() abstract method in Cookie and fulfill it in toppings classes.
+
+Add tests to ToppingsTest to tests for nuts
+
+Test hasNuts on cookie with no nuts
+
+Test hasNuts on cookie with nuts
